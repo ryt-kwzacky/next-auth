@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "next": "10.0.5",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react": "^0.0.0-experimental-3310209d0",
+    "react-dom": "^0.0.0-experimental-3310209d0"
   },
   "devDependencies": {
     "@types/node": "^14.14.20",
