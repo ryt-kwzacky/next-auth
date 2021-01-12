@@ -11,6 +11,7 @@
     "postinstall": "typesync"
   },
   "dependencies": {
+    "firebase": "^8.2.2",
     "next": "10.0.5",
     "react": "^0.0.0-experimental-3310209d0",
     "react-dom": "^0.0.0-experimental-3310209d0"
